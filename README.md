@@ -1,6 +1,6 @@
 # Make text unsearchable
 
-### Quick implementation of [this idea](https://www.reddit.com/r/Lightbulb/comments/6vw75m)
+### Quick implementation of [this idea](https://www.reddit.com/r/Lightbulb/comments/6vw75m/a_app_th_rambls_y0vr_txt_lke_th_to_keep_it_from/dm5tu4d/)
 
 Includes 2 scripts:
 
